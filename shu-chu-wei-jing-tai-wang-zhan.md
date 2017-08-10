@@ -4,7 +4,7 @@ Gitbook简易教程 - WEB开发 - SegmentFault
 
 使用命令对已经创建的Book进行编译
 
-> 找到需要编译的书籍所在目录，执行gitbook serve 命令,在本电脑的默认路径为C:UsersQGYGitBookLibraryImportgitbooksimpletutorial，如图所示
+ 找到需要编译的书籍所在目录，执行gitbook serve 命令,在本电脑的默认路径为C:UsersQGYGitBookLibraryImportgitbooksimpletutorial，如图所示
 
 Serving book on [http://localhost:4000](http://localhost:4000/)
 
