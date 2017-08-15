@@ -15,5 +15,4 @@
 * [5.发布](5fa-bu.md)
   * [5.1发布到gitbook.com](fa-bu-daogitbook-com.md)
   * [5.2发布到github 仓库](52fa-bu-dao-github-cang-ku.md)
-  * [5.3发布到Github Pages ](53fa-bu-dao-github-pages.md)
 
