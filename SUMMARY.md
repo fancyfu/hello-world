@@ -11,7 +11,4 @@
   * [2.2输出PDF](42shu-chu-pdf.md)
 * [3.图书编辑](3tu-shu-bian-ji.md)
   * [3.1gitbook editor 编辑](3tu-shu-bian-ji/gitbook-editor-bian-ji.md)
-* [4.发布](5fa-bu.md)
-  * [5.1发布到gitbook.com](fa-bu-daogitbook-com.md)
-  * [5.2发布到github](52fa-bu-dao-github-cang-ku.md)
 
