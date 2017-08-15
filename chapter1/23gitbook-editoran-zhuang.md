@@ -7,9 +7,45 @@
 
 点击桌面上的GitBook.Editor图标
 
-如下图所示
+#### ① 功能栏：操作、编辑功能按钮
 
-[![](https://s4.51cto.com/wyfs02/M01/8E/60/wKioL1i-05fDtxyxAACzeiDe5KY573.png-wh_500x0-wm_3-wmp_4-s_1860513972.png "wKioL1i-05fDtxyxAACzeiDe5KY573.png-wh\_50")](https://s4.51cto.com/wyfs02/M01/8E/60/wKioL1i-05fDtxyxAACzeiDe5KY573.png-wh_500x0-wm_3-wmp_4-s_1860513972.png)
+功能栏可以大致分成四个部分，下面从左到右依次说明一下。
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_2.jpg)
+
+**控制按钮**：返回控制台、保存、撤销、重做。
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_3.jpg)
+
+**编辑按钮**：加粗、斜体、删除线、H1 标题、H2 标题、H3 标题、无序列表、有序列表、表哥、hr 分割线、链接、插入图片、代码块、数学表达式、（书尾）词汇表
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_4.jpg)
+
+**视图按钮**：编辑预览区同步滚动、英文校验、关闭/显示左侧边栏、关闭/显示预览区
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_5.jpg)
+
+**设置按钮**：选择分支、版本历史、编辑器设置、其它设置项（如： Edit Book Configuration（编辑电子书设置）、Edit Book Cover（添加电子书封面）、Stylesheets（添加样式表）等。界面最上方是“**功能栏**”。左侧边栏上为“**目录区**”，左栏下为“**文件树**”，中栏为“**编辑区**”，右栏为“**预览区**”。最底部为“状态栏”。下面对这几个区域做详细介绍。
+
+#### ① 功能栏：操作、编辑功能按钮
+
+功能栏可以大致分成四个部分，下面从左到右依次说明一下。
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_2.jpg)
+
+**控制按钮**：返回控制台、保存、撤销、重做。
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_3.jpg)
+
+**编辑按钮**：加粗、斜体、删除线、H1 标题、H2 标题、H3 标题、无序列表、有序列表、表哥、hr 分割线、链接、插入图片、代码块、数学表达式、（书尾）词汇表
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_4.jpg)
+
+**视图按钮**：编辑预览区同步滚动、英文校验、关闭/显示左侧边栏、关闭/显示预览区
+
+![](https://kindlefere.b0.upaiyun.com/uploads/2016/01/gitbook_5.jpg)
+
+**设置按钮**：选择分支、版本历史、编辑器设置、其它设置项（如： Edit Book Configuration（编辑电子书设置）、Edit Book Cover（添加电子书封面）、Stylesheets（添加样式表）等。
 
 点击New Book新建电子书
 
@@ -66,6 +102,4 @@ Introduction：
 [![](https://s1.51cto.com/wyfs02/M01/8E/61/wKiom1i-1aLh5p_kAAEkgnUAIZo829.png-wh_500x0-wm_3-wmp_4-s_4214234559.png "wKiom1i-1aLh5p\_kAAEkgnUAIZo829.png-wh\_50")](https://s1.51cto.com/wyfs02/M01/8E/61/wKiom1i-1aLh5p_kAAEkgnUAIZo829.png-wh_500x0-wm_3-wmp_4-s_4214234559.png)
 
 按照上面的方式把其他章节依次添加，如果需要添加图片，点击菜单栏的Insert Image图标，选择本地的图片上传就ok了，最后编辑完成后点击save保存电子书。
-
-
 
